@@ -1,0 +1,2 @@
+# generatesite
+safelink
